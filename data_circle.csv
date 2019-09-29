@@ -1,9 +1,9 @@
 domain,proportion,gender
-cs,15.86,F
-cs,54.68,M
-de,3.72,F
-de,13.57,M
-se,1.01,F
-se,4.44,M
-th,2.21,F
-th,13.7,M
+Computer Science,15.86,F
+Computer Science,54.68,M
+Data Engineering,3.72,F
+Data Engineering,13.57,M
+Software Engineering,1.01,F
+Software Engineering,4.44,M
+Theory,2.21,F
+Theory,13.7,M
